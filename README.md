@@ -1,16 +1,18 @@
 # Profile
 
 ## Borllor Li
-9 Ohau Court, Fairview Heights, Auckland 0632, New Zealand, 
-borllor@163.com, https://github.com/borllor
+Auckland 0632, New Zealand, 
+borllor@163.com, https://github.com/borllor/
 
 ## Skills
-.Net, Java, Spring MVC, Spring Boot, Spring Cloud, MySQL, SQL Server, NoSQL, MQ, Architecture Design, Design Pattern, Microservices, DevOps, AWS, Azure, Javascript, Flash.
+.Net, .Net Core, Java, Spring MVC, Spring Boot, Spring Cloud, MySQL, SQL Server, NoSQL, MQ, Architecture Design, Design Pattern, Microservices, DevOps, AWS, Azure, Javascript, Flash.
 
 ## About
-I am a senior IT expert with 10+ years’ experience in software development and 5+ years in team management, and also likes reading and football.   Self-assessment:
+I am a senior IT expert with 10+ years’ experience in software development and 5+ years in team management, and also likes reading and football. 
+
+### Self-assessment:
 1.	Passion, responsibility, and strong execution;
-2.	Love technology, love my family;
+2.	Love technology, love my family, love reading;
 3.	Good at providing solutions for technology issues, high-performance, high concurrency and high availability;
 4.	Good at team management.
 
