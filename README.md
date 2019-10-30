@@ -1,11 +1,15 @@
 # Profile
 
 ## Borllor Li
-Auckland 0632, New Zealand, 
-borllor@163.com, https://github.com/borllor/
+Auckland 0632, New Zealand,\ 
+borllor@163.com, https://github.com/borllor/\
 
 ## Skills
-.Net, .Net Core, Java, Spring MVC, Spring Boot, Spring Cloud, MySQL, SQL Server, NoSQL, MQ, Architecture Design, Design Pattern, Microservices, DevOps, AWS, Azure, Javascript, Flash.
+Languages: .Net, .Net Core, C#, Java;\
+Database: SQL Server, MySQL, MongoDB, HBase;\
+Design: UML, Design Pattern;\
+Cloud: Azure, Aliyun, TCYun;\
+Frontend: JavaScript, JQuery, HTML, CSS, VUE.js.\
 
 ## About
 I am a senior IT expert with 10+ years’ experience in software development and 5+ years in team management, and also likes reading and football. 
@@ -21,48 +25,48 @@ I am a senior IT expert with 10+ years’ experience in software development and
 
 
 ## Tongcheng Network Technology Co., Ltd. 
-https://www.ly.com/, WeChat Mini Programs-高铁订餐
-Software Development Manager
-Mar 2017 - Aug 2019, Shanghai City, China
+[LY.com](https://drive.google.com/file/d/1rvgCQmlz_Qz66iVeGzJVHq-hyJnxqxWm/view LY.com)
+https://www.ly.com/, WeChat Mini Programs-高铁订餐\
+Senior .Net Developer/Leader\
+Mar 2017 - Aug 2019, Shanghai City, China\
 
 ### Description
-LY.com is a state-level high-tech enterprise, as well as one of the first group of E-commence demonstration enterprises authorized by the Ministry of Commerce. It has been voted as one of the "Top 20 Tourism Groups in China" for several years and is one of the five largest business groups in the travel industry in China. I worked in the high-speed train booking meal department, which aims to provide an online platform for passengers to order a meal on a train.
+LY.com is a state-level high-tech enterprise, as well as one of the first group of E-commence demonstration enterprises authorized by the Ministry of Commerce. It has been voted as one of the "Top 20 Tourism Groups in China" for several years and is one of the five largest business groups in the travel industry in China. I worked in the high-speed train booking food department, which aims to provide an online platform for passengers to order a meal on a train.
 
 #### Job summary
-1.	Establish the technical team;
-2.	Manage the team, and guarantee the quality and time of delivery per iteration;
-3.	Solve various technical problems, give solutions, and participate in development, such as poor performance in querying eligible vendors, searching vendor interface instability, querying information interface of the train stops concurrently and slowly, timeout issues, etc.;
-4.	Reconstruct business modules including design and development due to the increase in the number of vendors, such as Creation of order module, notifications of changes on order state;
-5.	Technology: Java, MySQL, Spring MVC/Boot, Microservices(DSF), Redis, MongoDB, HBase, RabbitMQ, APM, CC (continuous integration), etc.
+1.	Code and design;
+2.	Solve various technical problems, give solutions, and participate in development, such as poor performance in querying eligible vendors, searching vendor interface instability, querying information interface of the train stops concurrently and slowly, timeout issues, etc.;
+3.	Recast business modules including design and development due to the increase in the number of vendors, such as Creation of order module, notifications of changes on order state;
+4.	Used: .Net, SQL Server, MySQL, Microservices, Redis, MongoDB, HBase, RabbitMQ, APM, CI/CD, etc.
 
 ______________________________________________________________________________________________________________________________________________________________________
 
 
 
 ## Guda E-commerce (Shanghai) Co., Ltd. 
-http://www.jinri.cn, http://www.jinri.net/
-Software Development Manager
-Nov 2013 – Mar 2017, Shanghai City, China
+http://www.jinri.cn, http://www.jinri.net/\
+Senior .Net Developer/Leader\
+Nov 2013 – Mar 2017, Shanghai City, China\
 
 ### Description
 Jinri.cn, one of the brands under Guda E-commerce, is the biggest online airfare wholesaling platform in China. Although many technology problems were facing the company when I just joined in, I thought I could make the most of myself here and learnt & improved skills on both business and technology domains. Now I am so proud that I have made it come true.
 
 #### Job summary
-1.	Build and lead the IT team;
-2.	Build basic service frameworks, such as Message Centre (Jinri.Notify), Log Centre (JinRi.Log) and so on;
-3.	Redesign and redevelop B2B airfare trading platform based on SOA and extensively use the parallel computing technology in the system;
+1.	Code and design;
+2.	Build and code basic service frameworks, such as Message Centre (Jinri.Notify), Log Centre (JinRi.Log) and so on;
+3.	Reimagine and recode B2B airfare trading platform based on SOA and extensively use the parallel computing technology in the system;
 4.	Introduce many advanced tools to our projects such as Thrift, Redis, RabbitMQ, Log4Net+MongoDB, Quartz, Metrics+InfluxDB+Grafana, ZooKeeper, Dapper, WinDbg+DotTrace etc.;
 5.	Standardise code frameworks and styles, team languages and cultures;
-6.	Technology: .Net(C#), Java, SOA, SQL Server, MySQL, Spring Boot, Redis, RabbitMQ.
+6.	Used: .Net(C#), Java, SOA, SQL Server, MySQL, Spring Boot, Redis, RabbitMQ.
 
 ______________________________________________________________________________________________________________________________________________________________________
 
 
 
 # XYLK Network Co., Ltd.
-http://www.xylk.net/(closed)
-Co-founder and IT Director
-Nov 2007 – Nov 2013, Shanghai City, China
+http://www.xylk.net/(closed)\
+Co-founder and IT Director\
+Nov 2007 – Nov 2013, Shanghai City, China\
 
 ## Description
 XYLK was co-founded by my friend who studied in both UK and Germany and me, as both of us hoped to build a multimedia platform for sharing creative ideas when the government was strengthening intellectual property protection and transformation of "Made-in-China". We successfully got CNY 200,000 funded by Shanghai government for college students who started a new business in Shanghai, after participating in a set-up competition for seed money. 
@@ -79,9 +83,9 @@ ________________________________________________________________________________
 
 
 # Autodesk
-https://www.autodesk.com/
-Software Development Engineer
-Jul 2006 – Nov 2007, Shanghai City, China
+https://www.autodesk.com/\
+Software Development Engineer\
+Jul 2006 – Nov 2007, Shanghai City, China\
 
 ## Description
 It is a leading software company in the world. As a freshman who just left school, I was attracted by the company and I was so willing and proud to join in it. During my working time in the company, I had learnt a lot, like C++, company culture and management etc.
@@ -97,8 +101,8 @@ It is a leading software company in the world. As a freshman who just left schoo
 
 
 ## Hefei University of Technology
-http://www.hfut.edu.cn/
-2002-2006, Diploma, Applied Mathematics
+http://www.hfut.edu.cn/\
+2002-2006, Diploma, Applied Mathematics\
 
 ### Activities and Societies
 Vice-Chairman with Student Union in the Science Dept. Held welcome parties for freshmen.
