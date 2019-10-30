@@ -25,7 +25,7 @@ I am a senior IT expert with 10+ years’ experience in software development and
 
 
 ## Tongcheng Network Technology Co., Ltd. 
-https://www.ly.com/, WeChat Mini Programs-高铁订餐 . 
+https://www.ly.com/, WeChat Mini Programs-高铁订餐  
 Senior .Net Developer/Leader  
 Mar 2017 - Aug 2019, Shanghai City, China  
 
