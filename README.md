@@ -1,15 +1,15 @@
 # Profile
 
 ## Borllor Li
-Auckland 0632, New Zealand,\ 
-borllor@163.com, https://github.com/borllor/\
+Auckland 0632, New Zealand,  
+borllor@163.com, https://github.com/borllor/  
 
 ## Skills
-Languages: .Net, .Net Core, C#, Java;\
-Database: SQL Server, MySQL, MongoDB, HBase;\
-Design: UML, Design Pattern;\
-Cloud: Azure, Aliyun, TCYun;\
-Frontend: JavaScript, JQuery, HTML, CSS, VUE.js.\
+Languages: .Net, .Net Core, C#, Java;  
+Database: SQL Server, MySQL, MongoDB, HBase;  
+Design: UML, Design Pattern;  
+Cloud: Azure, Aliyun, TCYun;  
+Frontend: JavaScript, JQuery, HTML, CSS, VUE.js.  
 
 ## About
 I am a senior IT expert with 10+ years’ experience in software development and 5+ years in team management, and also likes reading and football. 
@@ -25,10 +25,9 @@ I am a senior IT expert with 10+ years’ experience in software development and
 
 
 ## Tongcheng Network Technology Co., Ltd. 
-[LY.com](https://drive.google.com/file/d/1rvgCQmlz_Qz66iVeGzJVHq-hyJnxqxWm/view LY.com)
-https://www.ly.com/, WeChat Mini Programs-高铁订餐\
-Senior .Net Developer/Leader\
-Mar 2017 - Aug 2019, Shanghai City, China\
+https://www.ly.com/, WeChat Mini Programs-高铁订餐 . 
+Senior .Net Developer/Leader  
+Mar 2017 - Aug 2019, Shanghai City, China  
 
 ### Description
 LY.com is a state-level high-tech enterprise, as well as one of the first group of E-commence demonstration enterprises authorized by the Ministry of Commerce. It has been voted as one of the "Top 20 Tourism Groups in China" for several years and is one of the five largest business groups in the travel industry in China. I worked in the high-speed train booking food department, which aims to provide an online platform for passengers to order a meal on a train.
@@ -44,9 +43,9 @@ ________________________________________________________________________________
 
 
 ## Guda E-commerce (Shanghai) Co., Ltd. 
-http://www.jinri.cn, http://www.jinri.net/\
-Senior .Net Developer/Leader\
-Nov 2013 – Mar 2017, Shanghai City, China\
+http://www.jinri.cn, http://www.jinri.net/  
+Senior .Net Developer/Leader  
+Nov 2013 – Mar 2017, Shanghai City, China  
 
 ### Description
 Jinri.cn, one of the brands under Guda E-commerce, is the biggest online airfare wholesaling platform in China. Although many technology problems were facing the company when I just joined in, I thought I could make the most of myself here and learnt & improved skills on both business and technology domains. Now I am so proud that I have made it come true.
@@ -64,9 +63,9 @@ ________________________________________________________________________________
 
 
 # XYLK Network Co., Ltd.
-http://www.xylk.net/(closed)\
-Co-founder and IT Director\
-Nov 2007 – Nov 2013, Shanghai City, China\
+http://www.xylk.net/(closed)  
+Co-founder and IT Director  
+Nov 2007 – Nov 2013, Shanghai City, China  
 
 ## Description
 XYLK was co-founded by my friend who studied in both UK and Germany and me, as both of us hoped to build a multimedia platform for sharing creative ideas when the government was strengthening intellectual property protection and transformation of "Made-in-China". We successfully got CNY 200,000 funded by Shanghai government for college students who started a new business in Shanghai, after participating in a set-up competition for seed money. 
@@ -83,9 +82,9 @@ ________________________________________________________________________________
 
 
 # Autodesk
-https://www.autodesk.com/\
-Software Development Engineer\
-Jul 2006 – Nov 2007, Shanghai City, China\
+https://www.autodesk.com/  
+Software Development Engineer  
+Jul 2006 – Nov 2007, Shanghai City, China  
 
 ## Description
 It is a leading software company in the world. As a freshman who just left school, I was attracted by the company and I was so willing and proud to join in it. During my working time in the company, I had learnt a lot, like C++, company culture and management etc.
@@ -101,8 +100,8 @@ It is a leading software company in the world. As a freshman who just left schoo
 
 
 ## Hefei University of Technology
-http://www.hfut.edu.cn/\
-2002-2006, Diploma, Applied Mathematics\
+http://www.hfut.edu.cn/  
+2002-2006, Diploma, Applied Mathematics  
 
 ### Activities and Societies
 Vice-Chairman with Student Union in the Science Dept. Held welcome parties for freshmen.
